@@ -1,5 +1,3 @@
-import { useWeather } from "./context/Context";
-
  const api=async(city)=>{
     const res=await fetch(`https://api.weatherapi.com/v1/current.json?key=0cf064dfa21e4631be8110337251406&q=${city}&aqi=yes`);
     const data=await res.json();
