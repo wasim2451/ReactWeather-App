@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 ## Screenshot 📸 
-![Weather App Screenshot](./Screenshot 2025-06-15 043055.png)
+![Weather App Screenshot](./screenshot.png)
 
 Currently, two official plugins are available:
 
